@@ -1,0 +1,5 @@
+Crop,Suitability,Texture,pH,Slope_code,Erosion_code,Gravel_code,Rocky_code,Drainage_code,Depth_code,Temperature,Rainfall,LGP
+Ragi,S1,"l,sil,sl,cl,sicl,scl",5.5-7.5,"A,B",A,A,A,A,"A,B,C",28-34,750-900,110-150
+Ragi,S2,"sic,c,sc","4.5-5.4,7.6-8.5",C,B,B,B,B,D,"25-27, 35-38",600-750,90-110
+Ragi,S3,"ls,s,c","8.6-9.5,4.0-4.4",D,C,C,C,C,E,"20-24,39-40",450-600,60-90
+Ragi,N,NA,0.0-4.0,NA,NA,NA,NA,NA,F,"0-20,40-60",0-450,0-60
