@@ -1,0 +1,109 @@
+Village,Texture,Slope,Slope_code,Erosion,Erosion_code,Gravel,Gravel_code,Rocky_leg,Rocky_code,Drinage,Drinage_code,Depth,Depth_code,LCC,Area
+Hadonahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,131.6093975
+Hadonahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,I,33.06218518
+Hadonahalli,sl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,43.69021557
+Hadonahalli,scl,Gently sloping (3-5%),C,Moderate erosion,B,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,34.2378607
+Hadonahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,39.93201434
+Hadonahalli,sl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,34.80805679
+Hadonahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,31.83255722
+Hadonahalli,ls,Level to nearly level (0-1%),A,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,35.45878922
+Hadonahalli,sc,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,56.07357102
+Hadonahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,58.8970687
+Hadonahalli,sc,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,57.46136831
+Hadonahalli,sl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,27.4768898
+Hadonahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,102.1688727
+Hadonahalli,ls,Very gently sloping (1-3%),B,Slight erosion,A,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,I,25.48008702
+Hadonahalli,sl,Gently sloping (3-5%),C,Moderate erosion,B,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,10.96785673
+Hadonahalli,sl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,19.14251187
+Hadonahalli,sl,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Shallow (25-50 cm),Shallow (25-50 cm),III,7.081138043
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,3.553637222
+Hadonahalli,sc,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Deep (100-150 cm),B,I,24.4076268
+Hadonahalli,sl,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Moderately well drained,A,Very deep (>150 cm),A,II,17.44749984
+Hadonahalli,sl,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Moderately well drained,A,Very deep (>150 cm),A,II,16.14442822
+Hadonahalli,sl,Moderately sloping (5-10%),D,Severe erosion,C,Non gravel (<15%),A,Extremly rocky (25-50%),C,Well drained,A,Deep (100-150 cm),B,II,18.13019738
+Hadonahalli,sl,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Deep (100-150 cm),B,I,10.7985116
+Hadonahalli,sl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,13.56653108
+Hadonahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,8.744501833
+Hadonahalli,sl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,39.57506615
+Hadonahalli,ls,Level to nearly level (0-1%),A,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,25.03967732
+Hadonahalli,scl,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Deep (100-150 cm),B,II,6.634140076
+Hadonahalli,scl,Moderately sloping (5-10%),D,Severe erosion,C,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,21.45734462
+Hadonahalli,sl,Very gently sloping (1-3%),B,Moderate erosion,B,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,16.28015951
+Hadonahalli,scl,Level to nearly level (0-1%),A,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,I,3.529429434
+Hadonahalli,sl,Gently sloping (3-5%),C,Severe erosion,C,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Shallow (25-50 cm),Shallow (25-50 cm),III,3.572057537
+Hadonahalli,c,Very gently sloping (1-3%),B,Moderate erosion,B,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,10.54307902
+Hadonahalli,scl,Very gently sloping (1-3%),B,Moderate erosion,B,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,4.678362525
+Hadonahalli,scl,Very gently sloping (1-3%),B,Severe erosion,C,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,4.168460118
+Hadonahalli,ls,Very gently sloping (1-3%),B,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Very deep (>150 cm),A,II,3.085918092
+Hadonahalli,scl,Moderately sloping 5-10%),D,Severe erosion,C,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,27.7955027
+Hadonahalli,sl,Very gently sloping (1-3%),B,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Very deep (>150 cm),A,II,28.14669299
+Hadonahalli,scl,Gently sloping (3-5%),C,Severe erosion,C,Non gravel (<15%),A,Very rocky (10-25%),R2,Well drained,A,Shallow (25-50 cm),Shallow (25-50 cm),III,22.45913006
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,1.645986798
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,1.93090944
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,4.10266114
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,1.742111282
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,1.692482056
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,2.243677163
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,11.75360588
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,0.912559821
+Hadonahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,12.68620297
+Hadonahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,2.289652809
+Hadonahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,5.729735588
+Hadonahalli,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,Forest plantation,118.6334322
+Hadonahalli,Forest,Forest,Forest,Forest,Forest,Forest,Forest,Forest,Forest,Forest,Forest,Forest,Forest,Forest,153.4069131
+Hadonahalli,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,8.947898681
+Hadonahalli,scl,Moderately sloping (5-10%),D,Severe erosion,C,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,3.359121611
+Hadonahalli,scl,Moderately sloping (5-10%),D,Severe erosion,C,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,1.985379744
+Hadonahalli,scl,Moderately sloping (5-10%),D,Severe erosion,C,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,0.091989996
+Hadonahalli,scl,Moderately sloping (5-10%),D,Severe erosion,C,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,0.216239581
+Hadonahalli,sc,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Deep (100-150 cm),B,I,26.92020063
+Hadonahalli,sc,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Deep (100-150 cm),B,I,7.109735838
+Hadonahalli,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,12.96143512
+Hadonahalli,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,2.177734299
+Hadonahalli,sl,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Rocky (2-10%),B,Well drained,A,Shallow (25-50 cm),Shallow (25-50 cm),III,3.423908045
+Hadonahalli,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,2.64000199
+Hadonahalli,sl,Moderately sloping (5-10%),D,Severe erosion,C,Non gravel (<15%),A,Extremly rocky (25-50%),C,Well drained,A,Deep (100-150 cm),B,II,0.053644392
+Hadonahalli,sl,Moderately sloping (5-10%),D,Severe erosion,C,Non gravel (<15%),A,Extremly rocky (25-50%),C,Well drained,A,Deep (100-150 cm),B,II,11.54732745
+Hadonahalli,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,Scrub land Dense,4.754003725
+Hadonahalli,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,3.838057602
+Hadonahalli,scl,Moderately sloping (5-10%),D,Severe erosion,C,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,5.91750705
+Hadonahalli,scl,Moderately sloping (5-10%),D,Severe erosion,C,Gravelly (15-35%),B,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,3.964812788
+Durgennahalli,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,0.636454227
+Durgennahalli,sl,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,0.121835428
+Durgennahalli,ls,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,0.523865204
+Durgennahalli,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,2.479219625
+Durgennahalli,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,0.000266844
+Durgennahalli,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,0.727911645
+Durgennahalli,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,0.000111522
+Durgennahalli,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,1.337084642
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,1.098872752
+Durgennahalli,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,Scrub land Open,3.305443994
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,6.090872321
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,2.631813197
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,2.509587016
+Durgennahalli,sl,Gently sloping (3-5%),C,Moderate erosion,B,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,II,1.689582179
+Durgennahalli,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,1.708366866
+Durgennahalli,sl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Moderately well drained,A,Very deep (>150 cm),A,II,3.368538657
+Durgennahalli,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,Rock out crop,3.678881436
+Durgennahalli,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,Gullied land,3.639351157
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,3.428212367
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,4.441629611
+Durgennahalli,ls,Gently sloping (3-5%),C,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,1.492872861
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,1.760299624
+Durgennahalli,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,Habitation,0.5790509
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,4.887634762
+Durgennahalli,scl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,1.956106039
+Durgennahalli,sl,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Very deep (>150 cm),A,I,2.436454825
+Durgennahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,1.767306243
+Durgennahalli,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,Degraded land,12.31496824
+Durgennahalli,Sandy,Very gently sloping (1-3%),B,Slight erosion,A,Non gravel (<15%),A,Non Rocky,A,Well drained,A,Deep (100-150 cm),B,II,3.238574235
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,0.528633641
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,0.188031304
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,0.628756565
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,1.206892822
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,1.315621461
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,1.529511022
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,0.597341291
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,2.270346676
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,1.728132561
+Thirumagaondanahalli,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,Water body,4.858333612
